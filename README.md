@@ -30,7 +30,8 @@ Para executar o projeto, basta fazer o download ou clonar este repositório em s
 
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
-https://github.com/Allan-Carlos/Relogio-Digital/assets/89498717/cc1d3cf0-6ae0-4c5a-a718-ea235bb7a8c8
+![Screenshot do Site](https://imgur.com/FdWxq9t.png)
+
 
 
 
